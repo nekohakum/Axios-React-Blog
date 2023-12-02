@@ -1,0 +1,28 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "dadsfdfs",
+			"datetime": "December 02, 2023 8:11:06 PM",
+			"body": "wwfasdfdsasdf"
+		},
+		{
+			"id": 2,
+			"title": "sasdf",
+			"datetime": "December 02, 2023 8:11:19 PM",
+			"body": "wrqthrhf"
+		},
+		{
+			"id": 3,
+			"title": "gsdfg",
+			"datetime": "December 02, 2023 8:11:23 PM",
+			"body": "aewfWEF"
+		},
+		{
+			"id": 4,
+			"title": "htrhrqe",
+			"datetime": "December 02, 2023 8:11:27 PM",
+			"body": "asdfasdf"
+		}
+	]
+}
